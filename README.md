@@ -1,10 +1,10 @@
 ## Desvendando Atletas - Imersão Dev com Google Gemini
 
-** O que essa aplicação faz? **
+**O que essa aplicação faz?**
 
 Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta favorito ou sobre uma modalidade específica. Essa aplicação é a sua nova melhor amiga! Ela te ajuda a encontrar todas as informações que você precisa de forma rápida e fácil.
 
-** Como ela funciona? **
+**Como ela funciona?**
 
 1. ** Digite e pesquise:** Você digita o nome do atleta ou esporte que você quer encontrar na caixinha de pesquisa.
 2. ** Mágica acontece:** A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
@@ -12,9 +12,9 @@ Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta
    
 **Tecnologias usadas:**
 
-**HTML:** A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
-**CSS:** Deixa tudo bonitinho e organizado, com cores e fontes legais.
-**JavaScript:** A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
+* **HTML:** A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
+* **CSS:** Deixa tudo bonitinho e organizado, com cores e fontes legais.
+* **JavaScript:** A parte mais inteligente da aplicação! É o JavaScript que faz a pesquisa, compara os dados e mostra os resultados na tela.
 
 **Como usar:**
 
