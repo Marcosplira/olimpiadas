@@ -10,7 +10,7 @@ Imagine que você é um super fã de esportes e quer saber tudo sobre seu atleta
 2. ** Mágica acontece:** A aplicação vasculha um banco de dados gigante (que está no arquivo dados.js) e procura por tudo que tenha a ver com o que você digitou.
 3. ** Resultados na tela:** Se a aplicação encontrar algo, ela mostra pra você um card com o nome do atleta, uma breve descrição e um link para saber mais. Se não encontrar nada, ela te avisa que não teve sorte dessa vez.
    
-**Tecnologias usadas: **
+**Tecnologias usadas:**
 
 **HTML:** A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer.
 **CSS:** Deixa tudo bonitinho e organizado, com cores e fontes legais.
